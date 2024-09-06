@@ -20,6 +20,11 @@
 - **Fetch:** Para la realización de peticiones HTTP a la API.
 
 ## Configuración e instalación
+---
+![Vista previa clima app](/src/assets/clima-app.png)
+---
+
+## Configuración e instalación
 
 1. Clona el repositorio en tu máquina local:
 

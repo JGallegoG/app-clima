@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 # codigo para consumir la api registro en gratuita.
 API_KEY='https://home.openweathermap.org/' 
+
+eslint.config.js

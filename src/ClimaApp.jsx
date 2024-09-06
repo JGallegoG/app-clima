@@ -6,7 +6,7 @@ export const ClimaApp = () => {
     //url para peticion
 
     const url = 'https://api.openweathermap.org/data/2.5/weather'
-    const API_KEY = 'CREATE YOU API_KEY'
+    const API_KEY = 'Introduce tu APY_KEY'
     const kelvin = 273
 
     //Controlar de estado de las ciudades y del clima
